@@ -21,8 +21,8 @@ Applicatioin Set-up:
 2. Install code editor
 3. Clone repository
 4. start mysql and apache
-5. remove database password or include it in the database file
-6. copy and paste localhost/connection/setup.php in web browser to create web application database
+5. remove mysql password or include it in the database file
+6. copy and paste localhost/php/Camagru/connection/setup.php in web browser to create web application database
 
 Enjoy!!!...
 
